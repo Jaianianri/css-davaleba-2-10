@@ -1,0 +1,169 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main_container {
+    padding: 96px;
+    background: #E2F7FF;
+    margin: 0 auto;
+    max-width: 1604px;
+    width: 100%;
+    height: 2108px;
+    height: 0 auto;
+
+}
+
+#big_container {
+    max-width: 1216px;
+    width: 100%;
+    min-width: 320px;
+    height: 804px;
+    margin: 0 auto;
+}
+
+#foto2 {
+    margin: 0 auto;
+}
+
+.foto1 {
+    margin: 0 auto;
+}
+
+#Rhye {
+    color: #6941C6;
+    font-family: Inter;
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+#review {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 30px;
+    margin-top: 8px;
+}
+
+#create {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    margin-top: 8px;
+}
+
+#button {
+    margin-top: 20px;
+}
+
+
+#Design {
+    color: #6941C6;
+    padding: 8px 12px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 14px;
+    border-radius: 9999px;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+
+}
+
+#Research {
+    color: #3538CD;
+    padding: 8px 12px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 14px;
+    border-radius: 9999px;
+    border: 1px solid #C7D7FE;
+    background: #EEF4FF;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+#Presentation {
+    color: #C11574;
+    text-align: center;
+    font-family: Inter;
+    font-size: 14px;
+    border-radius: 9999px;
+    border: 1px solid #FCCEEE;
+    background: #FDF2FA;
+    padding: 8px 12px;
+}
+
+#foto-container {
+    max-width: 1214px;
+    width: 100%;
+}
+
+.foto3 {
+    margin-top: 64px;
+
+}
+
+.Olivia {
+    color: #6941C6;
+    font-family: Inter;
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+.Linear {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 24px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    vertical-align: middle;
+    display: inline-block;
+    margin-right: 28px;
+}
+
+.helps {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+}
+
+.text-box {
+    max-width: 384px;
+    width: 100%;
+}
+
+.avatar {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 16px;
+}
+
+.software {
+    max-width: 344px;
+}
+
+.shop {
+    max-width: 370px;
+    width: 100%;
+    margin-right: 32px;
+    display: inline-block;
+}
+
+.Product1 {
+    color: #026AA2;
+    text-align: center;
+    border-radius:  9999px;
+    border: 1px solid #B9E6FE;
+    background: #F0F9FF;
+}
+
+.Tools1 {
+    color: #C11574;
+    text-align: center;
+    border-radius: 9999px;
+    border: 1px solid #FCCEEE;
+    background: #FDF2FA;
+
+}
+
+.SaaS {}
