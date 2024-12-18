@@ -98,11 +98,6 @@
     width: 100%;
 }
 
-.foto3 {
-    margin-top: 64px;
-
-}
-
 .Olivia {
     color: #6941C6;
     font-family: Inter;
@@ -147,14 +142,18 @@
     width: 100%;
     margin-right: 32px;
     display: inline-block;
+    margin-top: 64px;
 }
 
 .Product1 {
     color: #026AA2;
     text-align: center;
-    border-radius:  9999px;
+    border-radius: 9999px;
     border: 1px solid #B9E6FE;
     background: #F0F9FF;
+    padding: 8px 12px;
+    font-family: Inter;
+    font-size: 14px;
 }
 
 .Tools1 {
@@ -163,7 +162,89 @@
     border-radius: 9999px;
     border: 1px solid #FCCEEE;
     background: #FDF2FA;
+    padding: 8px 12px;
+    font-family: Inter;
+    font-size: 14px;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.SaaS {
+    padding: 8px 12px;
+    color: #C11574;
+    text-align: center;
+    font-family: Inter;
+    font-size: 14px;
+    border-radius: 9999px;
+    border: 1px solid #FCCEEE;
+    background: #FDF2FA;
+}
+
+.button-div {
+    margin-top: 24px;
+}
+
+.Software {
+    color: #067647;
+    text-align: center;
+    font-family: Inter;
+    font-size: 14px;
+    border-radius: 9999px;
+    border: 1px solid #ABEFC6;
+    background: #ECFDF3;
+    padding: 8px 12px;
+}
+
+.Leadership {
+    color: #6941C6;
+    padding: 8px 12px;
+    text-align: center;
+    border-radius: 9999px;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+}
+
+.Management {
+    padding: 8px 12px;
+    color: #363F72;
+    text-align: center;
+    border-radius: 9999px;
+    border: 1px solid #D5D9EB;
+    background: #F8F9FC;
 
 }
 
-.SaaS {}
+.Research {
+    padding: 8px 12px;
+    color: #3538CD;
+    text-align: center;
+    font-family: Inter;
+    font-size: 14px;
+    border-radius: 9999px;
+    border: 1px solid #C7D7FE;
+    background: #EEF4FF;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.Frameworks {
+    padding: 8px 12px;
+    color: #B93815;
+    text-align: center;
+    font-family: Inter;
+    font-size: 14px;
+    border-radius: 9999px;
+    border: 1px solid #F9DBAF;
+    background: #FEF6EE;
+}
+
+.Design {
+    padding: 8px 12px;
+    color: #6941C6;
+    text-align: center;
+    font-family: Inter;
+    font-size: 14px;
+    border-radius: 9999px;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+}
